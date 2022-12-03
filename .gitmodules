@@ -1,0 +1,9 @@
+[submodule "Flashcard_Game"]
+	path = Flashcard_Game
+	url = git@github.com:formidablae/Flashcard_Game.git
+[submodule "Personal_Blog"]
+	path = Personal_Blog
+	url = git@github.com:formidablae/Personal_Blog.git
+[submodule "Inventory_App"]
+	path = Inventory_App
+	url = git@github.com:formidablae/Inventory_App.git
